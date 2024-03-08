@@ -114,7 +114,17 @@ form {
   width: 35%;
 }
 
-#suco-manga {
+#suco-manga { 
   width: 25%;
 ;
+}
+
+footer {
+  background-color: rgb(255, 250, 250);
+  color: black;
+  padding: 5px;
+  margin-top: 10px;
+  border-radius: 10px;
+  text-align: center;
+  position: 100%;
 }
