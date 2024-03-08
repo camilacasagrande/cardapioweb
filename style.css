@@ -1,0 +1,120 @@
+body {
+  background: #f71f1f;
+  
+}
+
+h1{ 
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding: 0,5%;
+  color: rgb(255, 0, 0);
+  border-radius: 100px;
+ 
+
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+h5, h2 {
+  font-family: sans-serif;
+
+}
+form {
+    background-color: rgb(255, 255, 255);
+    padding: 70px;
+    font-family: Aptos Display;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 60px;
+  }
+
+#carne {
+    width: 50%;
+    height: 50%;
+    border-radius: 0%;
+    
+  }
+
+#costela {
+  width: 50%;
+}
+
+#frango {
+  width: 50%;
+}
+
+#kafta {
+  width: 50%;
+}
+
+#linguiça {
+  width: 50%;
+}
+
+#calabresa {
+  width: 50%;
+}
+
+#cocacola {
+  width: 50%;
+}
+
+#mandioca {
+  width: 50%;
+}
+
+#coca {
+  width: 15%;
+}
+
+#pao-de-alho {
+  width: 50%;
+}
+
+#guarana {
+  width: 25%;
+}
+
+#fanta {
+  width: 25%;
+}
+
+#sprite {
+  width: 25%;
+}
+#pepsi {
+  width: 25%;
+}
+
+#suco-laranja {
+  width: 35%;
+}
+
+#suco-limao {
+  width: 35%;
+}
+
+#suco-abacaxi {
+  width: 30%;
+}
+
+#suco-abacaxi-hortela {
+  width: 25%;
+}
+
+#suco-uva {
+  width: 35%;
+}
+
+#suco-manga {
+  width: 25%;
+;
+}
